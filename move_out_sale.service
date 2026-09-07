@@ -1,0 +1,15 @@
+[Unit]
+Description=Move out sale webapp
+After=network.target
+
+[Service]
+Type=simple
+User=ec2-user
+WorkingDirectory=/home/ec2-user/apps/move_out_sale
+ExecStart=/home/ec2-user/apps/move_out_sale/venv/bin/python -m uvicorn src.webapp:app --host localhost --port 8560
+StandardOutput=append:/home/ec2-user/logs/move_out_sale/webapp.log
+StandardError=append:/home/ec2-user/logs/move_out_sale/webapp.log
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

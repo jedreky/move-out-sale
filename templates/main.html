@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Move out sale</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background: #1a1a1a;
+            color: #e0e0e0;
+            font-family: sans-serif;
+            padding: 2rem;
+        }
+
+        h1 {
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            color: #ffffff;
+            text-align: center;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #242424;
+        }
+
+        th {
+            background: #333;
+            color: #bbb;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 0.05em;
+            padding: 0.75rem 1rem;
+            text-align: left;
+        }
+
+        td {
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #333;
+            vertical-align: top;
+        }
+
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: #2c2c2c; }
+
+        td img {
+            width: 100%;
+            height: auto;
+            display: block;
+            object-fit: contain;
+            border-radius: 4px;
+            margin-bottom: 4px;
+            cursor: pointer;
+        }
+
+        @media (max-width: 600px) {
+            body { padding: 0; }
+            th, td {
+                padding: 0.4rem 0.5rem;
+                font-size: 0.8rem;
+            }
+        }
+
+        #lightbox {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.9);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        #lightbox.open { display: flex; }
+
+        #lightbox img {
+            max-width: 90vw;
+            max-height: 90vh;
+            object-fit: contain;
+            border-radius: 4px;
+            cursor: default;
+        }
+    </style>
+</head>
+<body>
+    <h1>Move out sale</h1>
+    <p style="text-align:center;margin-bottom:0.5rem;"><a href="https://wa.me/{{ phone_wa }}" style="color:#25d366;">WhatsApp: {{ phone_display }}</a></p>
+    <p style="text-align:center;margin-bottom:1.5rem;color:#bbb;">pick-up at Saadiyat Beach Residences</p>
+    {{ content | safe }}
+
+    <div id="lightbox">
+        <img id="lightbox-img" src="" alt="">
+    </div>
+
+    <script>
+        const lightbox = document.getElementById('lightbox');
+        const lightboxImg = document.getElementById('lightbox-img');
+        let currentGroup = [];
+        let currentIndex = 0;
+
+        function show(index) {
+            currentIndex = (index + currentGroup.length) % currentGroup.length;
+            lightboxImg.src = currentGroup[currentIndex];
+        }
+
+        document.querySelectorAll('td img').forEach(img => {
+            img.addEventListener('click', () => {
+                const siblings = Array.from(img.closest('td').querySelectorAll('img'));
+                currentGroup = siblings.map(i => i.src);
+                currentIndex = siblings.indexOf(img);
+                lightboxImg.src = img.src;
+                lightbox.classList.add('open');
+            });
+        });
+
+        lightbox.addEventListener('click', () => lightbox.classList.remove('open'));
+        document.addEventListener('keydown', e => {
+            if (e.key === 'Escape') lightbox.classList.remove('open');
+            if (e.key === 'ArrowRight') show(currentIndex + 1);
+            if (e.key === 'ArrowLeft') show(currentIndex - 1);
+        });
+
+        let touchStartX = 0;
+        lightbox.addEventListener('touchstart', e => { touchStartX = e.touches[0].clientX; }, { passive: true });
+        lightbox.addEventListener('touchend', e => {
+            const diff = touchStartX - e.changedTouches[0].clientX;
+            if (Math.abs(diff) > 50) show(currentIndex + (diff > 0 ? 1 : -1));
+            else lightbox.classList.remove('open');
+        });
+    </script>
+</body>
+</html>

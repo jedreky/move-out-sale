@@ -1,0 +1,1123 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "desc": "Ginevra Outdoor rocking chair. Bought in Pan Home in January this year. Very comfy",
+      "price": 500,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 3
+    },
+    {
+      "id": 2,
+      "desc": "Garden hose with holder",
+      "price": 30,
+      "available_on": "2025-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 3,
+      "desc": "desert rose plant in pot",
+      "price": 50,
+      "available_on": "2025-04-20",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 4,
+      "desc": "plumeria alba in pot",
+      "price": 70,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 5,
+      "desc": "hibiscus in pot (red flowers)",
+      "price": 50,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 6,
+      "desc": "watering can",
+      "price": 15,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 7,
+      "desc": "Outside cabinet. plastic. Good condition, color change is caused by sunlight",
+      "price": 50,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 8,
+      "desc": "HEAD Rackets, used for short time, both in very good condition",
+      "price": 170,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 9,
+      "desc": "Dunlop tennis balls x6",
+      "price": 20,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 10,
+      "desc": "IKEA Brusali shoe cabinet ",
+      "price": 200,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 12,
+      "desc": "Inside plant (Dieffenbachia) with pot",
+      "price": 70,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 13,
+      "desc": "Proiron yoga ball 65cm, with pump",
+      "price": 30,
+      "available_on": "2026-04-20",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 14,
+      "desc": "IKEA Frosvilt Chairs x3, great condition",
+      "price": 100,
+      "available_on": "2026-04-20",
+      "status": "available",
+      "priority": 1
+    },
+    {
+      "id": 15,
+      "desc": "IKEA Alseda banana fibre stool, (one great, one ok condition)",
+      "price": 120,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 16,
+      "desc": "IKEA Vihals bedside table with Branas basket. great condition",
+      "price": 130,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 17,
+      "desc": "IKEA Ikornnes Standing mirror, great condition",
+      "price": 250,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 18,
+      "desc": "IKEA Sniglar cot, with Sk\u00f6nast mattress and L\u00e9nast cover. assembled but never used",
+      "price": 390,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 19,
+      "desc": "MOON Kido baby booster with cup holder (15-36kg) great condition, used occasionally ",
+      "price": 50,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 20,
+      "desc": "32l foldable basket ",
+      "price": 15,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 21,
+      "desc": "UppaBaby Vista V2 in good condition (visible scratches on the frame, but clean and ready to be used) with additional small bag, manual, 2 mosquito nets, one rain cover and cup holder. very stable and easy to steer",
+      "price": 1600,
+      "available_on": "2026-05-10",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 22,
+      "desc": "Painting stand (pine wood)",
+      "price": 30,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 23,
+      "desc": "IKEA Brimnes Day bed, used 2 times, great condition",
+      "price": 900,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 24,
+      "desc": "IKEA Gruppspel gaming chair ",
+      "price": 650,
+      "available_on": "2026-05-10",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 25,
+      "desc": "IKEA Poang rocking chair",
+      "price": 300,
+      "available_on": "2026-05-10",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 26,
+      "desc": "IKEA Alex Desk, great condition",
+      "price": 350,
+      "available_on": "2026-05-10",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 27,
+      "desc": "IKEA Vivalla and Bergenes (tablet and phone stand)",
+      "price": 20,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 28,
+      "desc": "IKEA EKET",
+      "price": 425,
+      "available_on": "2026-05-10",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 29,
+      "desc": "inflatable mattress (queen size) and electric air pump used once, clean and ready to be used",
+      "price": 40,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 30,
+      "desc": "Hoobro Narrow side table with charging station. as new",
+      "price": 110,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 31,
+      "desc": "IKEA Jakobsfors coffee table (80cm) ",
+      "price": 250,
+      "available_on": "2026-05-10",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 32,
+      "desc": "IKEA Friheten corner sofa with storage",
+      "price": 900,
+      "available_on": "2026-05-18",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 33,
+      "desc": "Folding step stool",
+      "price": 25,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 34,
+      "desc": "Haprun Projector, bluetooth projector 1080p",
+      "price": 290,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 35,
+      "desc": "IKEA KALLAX",
+      "price": 100,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 36,
+      "desc": "2 sets of decorative vases (3 white and 3 orange/terracotta) + dry eucalyptus, lavender and pampas grass",
+      "price": 50,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 37,
+      "desc": "Jysk outdoor set: ulbjerg table, 4 Larvik recliner chairs with Larvik pillows (visible on one pic) wood and metal, comfortable and good condition",
+      "price": 1000,
+      "available_on": "2026-04-20",
+      "status": "available",
+      "priority": 2
+    },
+    {
+      "id": 38,
+      "desc": "Bosch high pressure washer easy aquatak",
+      "price": 125,
+      "available_on": "2026-04-20",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 39,
+      "desc": "electro-acoustic guitar, bought 1 year ago with a stand",
+      "price": 350,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 40,
+      "desc": "2 side bed bumpers",
+      "price": 80,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 41,
+      "desc": "2 led lamps with clip, charged with usb C",
+      "price": 50,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 42,
+      "desc": "IKEA KOPPANG very good condition, used for 5 months",
+      "price": 100,
+      "available_on": "2026-05-10",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 43,
+      "desc": "Touchless Trash Can 12L",
+      "price": 30,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 44,
+      "desc": "AIRFRYER Philips HD9270/90, very good condition, bought in November 2025",
+      "price": 100,
+      "available_on": "2026-05-15",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 45,
+      "desc": "IKEA EKOLSUND armchair, very good condition, very comfortable",
+      "price": 550,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 46,
+      "desc": "microwave + oven (2 in 1) good condition, fully operational",
+      "price": 100,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 47,
+      "desc": "philips 5000 series Steam Iron as new",
+      "price": 80,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 1
+    },
+    {
+      "id": 48,
+      "desc": "Black+Decker 2400W Horizontal Fan Heater",
+      "price": 60,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 1
+    },
+    {
+      "id": 49,
+      "desc": "Philips 5000 Series DST5010/16 Steam Iron",
+      "price": 80,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 1
+    },
+    {
+      "id": 50,
+      "desc": "2x IKEA Fridans, navy blue, 80x195 cm",
+      "price": 80,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 51,
+      "desc": "Round Paper Placemats Set of 8",
+      "price": 40,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 52,
+      "desc": "Cotton Table Mats, 4Pcs Heat Resistant",
+      "price": 20,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 53,
+      "desc": "Set of 3 Round Wicker Fruit and Bread Baskets",
+      "price": 40,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 54,
+      "desc": "flower vase",
+      "price": 45,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 55,
+      "desc": "Hitachi 680l Gross, Net 525l. side by side \r\nHRSN9552DDX, bought in September 2025",
+      "price": 1300,
+      "available_on": "2026-05-20",
+      "status": "available",
+      "priority": 2
+    },
+    {
+      "id": 56,
+      "desc": "aper Placemats Set of 8",
+      "price": 40,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 0
+    },
+    {
+      "id": 57,
+      "desc": "Mazda CX-5 \u2014 2023 Model\r\n\r\nMileage: 67,000 km\r\n\r\nSKYACTIV-G 2.5L, Petrol",
+      "price": 59500,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 3
+    },
+    {
+      "id": 58,
+      "desc": "Mazda CX-5 \u2014 2023 Model, Mileage: 67,000 km, SKYACTIV-G 2.5L, Petrol",
+      "price": 63000,
+      "available_on": "2026-04-26",
+      "status": "sold",
+      "priority": 0
+    },
+    {
+      "id": 59,
+      "desc": "Mazda CX-5 \u2014 2023 Model, Mileage: 67,000 km, SKYACTIV-G 2.5L, Petrol",
+      "price": 59500,
+      "available_on": "2026-04-26",
+      "status": "available",
+      "priority": 3
+    },
+    {
+      "id": 60,
+      "desc": "LG screen 24MR400-B 24 Inch IPS FullHD 100Hz Monitor with AMD FreeSync, HDMI, VGA - Black",
+      "price": 140,
+      "available_on": "2026-05-10",
+      "status": "available",
+      "priority": 0
+    }
+  ],
+  "pictures": [
+    {
+      "id": 1,
+      "path": "20260420_190638_7169f5.jpg",
+      "item_id": 1
+    },
+    {
+      "id": 2,
+      "path": "20260420_190638_0ebf7e.jpg",
+      "item_id": 1
+    },
+    {
+      "id": 3,
+      "path": "20260420_190638_7e1c8e.jpg",
+      "item_id": 1
+    },
+    {
+      "id": 4,
+      "path": "20260420_191042_fbd70e.jpg",
+      "item_id": 2
+    },
+    {
+      "id": 5,
+      "path": "20260420_191229_48bf0c.jpg",
+      "item_id": 3
+    },
+    {
+      "id": 6,
+      "path": "20260420_191330_f17f5a.jpg",
+      "item_id": 4
+    },
+    {
+      "id": 7,
+      "path": "20260420_191410_5e4ef7.jpg",
+      "item_id": 5
+    },
+    {
+      "id": 8,
+      "path": "20260420_191520_492708.jpg",
+      "item_id": 6
+    },
+    {
+      "id": 9,
+      "path": "20260420_191729_572672.jpg",
+      "item_id": 7
+    },
+    {
+      "id": 10,
+      "path": "20260420_191729_72fd92.jpg",
+      "item_id": 7
+    },
+    {
+      "id": 11,
+      "path": "20260420_191729_f9f08b.jpg",
+      "item_id": 7
+    },
+    {
+      "id": 12,
+      "path": "20260420_192059_b525cf.jpg",
+      "item_id": 8
+    },
+    {
+      "id": 13,
+      "path": "20260420_192059_65d90d.jpg",
+      "item_id": 8
+    },
+    {
+      "id": 14,
+      "path": "20260420_192224_12e48e.jpg",
+      "item_id": 9
+    },
+    {
+      "id": 15,
+      "path": "20260420_192430_b4e43b.jpg",
+      "item_id": 10
+    },
+    {
+      "id": 16,
+      "path": "20260420_192430_77b705.jpg",
+      "item_id": 10
+    },
+    {
+      "id": 17,
+      "path": "20260420_192430_7fd2b6.jpg",
+      "item_id": 10
+    },
+    {
+      "id": 19,
+      "path": "20260420_192917_11fca9.jpg",
+      "item_id": 12
+    },
+    {
+      "id": 20,
+      "path": "20260420_192917_4de677.jpg",
+      "item_id": 12
+    },
+    {
+      "id": 21,
+      "path": "20260420_193138_7817a2.jpg",
+      "item_id": 13
+    },
+    {
+      "id": 22,
+      "path": "20260420_193443_94ca51.jpg",
+      "item_id": 14
+    },
+    {
+      "id": 23,
+      "path": "20260420_193833_3ce3a9.jpg",
+      "item_id": 15
+    },
+    {
+      "id": 24,
+      "path": "20260420_193833_f2a02c.jpg",
+      "item_id": 15
+    },
+    {
+      "id": 25,
+      "path": "20260420_193833_86443e.jpg",
+      "item_id": 15
+    },
+    {
+      "id": 26,
+      "path": "20260420_194343_b2f7f9.jpg",
+      "item_id": 16
+    },
+    {
+      "id": 27,
+      "path": "20260420_194343_6f1948.jpg",
+      "item_id": 16
+    },
+    {
+      "id": 28,
+      "path": "20260420_195316_fb2f85.jpg",
+      "item_id": 17
+    },
+    {
+      "id": 29,
+      "path": "20260420_195929_24cf7c.jpg",
+      "item_id": 18
+    },
+    {
+      "id": 30,
+      "path": "20260420_195929_16d651.jpg",
+      "item_id": 18
+    },
+    {
+      "id": 31,
+      "path": "20260420_195929_7e5f15.jpg",
+      "item_id": 18
+    },
+    {
+      "id": 32,
+      "path": "20260420_200224_adc7c2.jpg",
+      "item_id": 19
+    },
+    {
+      "id": 33,
+      "path": "20260420_200224_4d57f5.jpg",
+      "item_id": 19
+    },
+    {
+      "id": 34,
+      "path": "20260420_200405_243216.jpg",
+      "item_id": 20
+    },
+    {
+      "id": 35,
+      "path": "20260420_200405_e5fe23.jpg",
+      "item_id": 20
+    },
+    {
+      "id": 36,
+      "path": "20260420_201030_9eb341.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 37,
+      "path": "20260420_201030_7360f1.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 38,
+      "path": "20260420_201030_b4fee4.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 39,
+      "path": "20260420_201030_88f423.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 40,
+      "path": "20260420_201030_abcd55.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 41,
+      "path": "20260420_201030_5c2edf.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 42,
+      "path": "20260420_201030_f81792.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 43,
+      "path": "20260420_201030_74a028.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 44,
+      "path": "20260420_201030_9a9149.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 45,
+      "path": "20260420_201030_4479e0.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 46,
+      "path": "20260420_201030_4f5ad0.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 47,
+      "path": "20260420_201030_9e82d2.jpg",
+      "item_id": 21
+    },
+    {
+      "id": 48,
+      "path": "20260420_201216_75ebdd.jpg",
+      "item_id": 22
+    },
+    {
+      "id": 49,
+      "path": "20260420_201429_fdea44.jpg",
+      "item_id": 23
+    },
+    {
+      "id": 50,
+      "path": "20260420_201429_69076a.jpg",
+      "item_id": 23
+    },
+    {
+      "id": 51,
+      "path": "20260420_201635_d166a3.jpg",
+      "item_id": 24
+    },
+    {
+      "id": 52,
+      "path": "20260420_201840_482b08.jpg",
+      "item_id": 25
+    },
+    {
+      "id": 53,
+      "path": "20260420_201840_6a30ec.jpg",
+      "item_id": 25
+    },
+    {
+      "id": 54,
+      "path": "20260420_202012_d5232d.jpg",
+      "item_id": 26
+    },
+    {
+      "id": 55,
+      "path": "20260420_202332_18eef9.jpg",
+      "item_id": 27
+    },
+    {
+      "id": 56,
+      "path": "20260420_203035_074281.jpg",
+      "item_id": 28
+    },
+    {
+      "id": 57,
+      "path": "20260420_203035_61d962.jpg",
+      "item_id": 28
+    },
+    {
+      "id": 58,
+      "path": "20260420_203551_e0011b.jpg",
+      "item_id": 29
+    },
+    {
+      "id": 59,
+      "path": "20260420_203551_5b6613.jpg",
+      "item_id": 29
+    },
+    {
+      "id": 60,
+      "path": "20260420_203551_5e8266.jpg",
+      "item_id": 29
+    },
+    {
+      "id": 61,
+      "path": "20260420_203800_64f89d.jpg",
+      "item_id": 30
+    },
+    {
+      "id": 62,
+      "path": "20260420_203800_4462b3.jpg",
+      "item_id": 30
+    },
+    {
+      "id": 63,
+      "path": "20260420_203800_18f5bd.jpg",
+      "item_id": 30
+    },
+    {
+      "id": 64,
+      "path": "20260420_203800_0dcefb.jpg",
+      "item_id": 30
+    },
+    {
+      "id": 65,
+      "path": "20260420_204021_2dcbef.jpg",
+      "item_id": 31
+    },
+    {
+      "id": 66,
+      "path": "20260420_204021_055595.jpg",
+      "item_id": 31
+    },
+    {
+      "id": 67,
+      "path": "20260420_204021_d7e5f2.jpg",
+      "item_id": 31
+    },
+    {
+      "id": 68,
+      "path": "20260420_204242_c4c1f9.jpg",
+      "item_id": 32
+    },
+    {
+      "id": 69,
+      "path": "20260420_204242_c3c81b.jpg",
+      "item_id": 32
+    },
+    {
+      "id": 70,
+      "path": "20260420_204242_8e00df.jpg",
+      "item_id": 32
+    },
+    {
+      "id": 71,
+      "path": "20260420_204409_e28b85.jpg",
+      "item_id": 33
+    },
+    {
+      "id": 72,
+      "path": "20260420_204409_02d556.jpg",
+      "item_id": 33
+    },
+    {
+      "id": 73,
+      "path": "20260420_204942_10766c.jpg",
+      "item_id": 34
+    },
+    {
+      "id": 74,
+      "path": "20260420_204942_1e2070.jpg",
+      "item_id": 34
+    },
+    {
+      "id": 75,
+      "path": "20260420_205120_26d77f.jpg",
+      "item_id": 35
+    },
+    {
+      "id": 76,
+      "path": "20260420_205120_56aead.jpg",
+      "item_id": 35
+    },
+    {
+      "id": 77,
+      "path": "20260420_205824_85874a.jpg",
+      "item_id": 36
+    },
+    {
+      "id": 78,
+      "path": "20260420_205824_0307ea.jpg",
+      "item_id": 36
+    },
+    {
+      "id": 79,
+      "path": "20260420_205824_11f42f.jpg",
+      "item_id": 36
+    },
+    {
+      "id": 80,
+      "path": "20260420_205824_5de9b2.jpg",
+      "item_id": 36
+    },
+    {
+      "id": 81,
+      "path": "20260420_214932_98baa0.jpg",
+      "item_id": 37
+    },
+    {
+      "id": 82,
+      "path": "20260420_214932_47c01f.jpg",
+      "item_id": 37
+    },
+    {
+      "id": 83,
+      "path": "20260420_214932_dcdb2d.jpg",
+      "item_id": 37
+    },
+    {
+      "id": 84,
+      "path": "20260420_214932_4b3f5f.jpg",
+      "item_id": 37
+    },
+    {
+      "id": 85,
+      "path": "20260420_214932_f1a9e1.jpg",
+      "item_id": 37
+    },
+    {
+      "id": 86,
+      "path": "20260420_214932_f4cddc.jpg",
+      "item_id": 37
+    },
+    {
+      "id": 87,
+      "path": "20260420_215114_6431e6.jpg",
+      "item_id": 38
+    },
+    {
+      "id": 88,
+      "path": "20260420_215114_315764.jpg",
+      "item_id": 38
+    },
+    {
+      "id": 89,
+      "path": "20260426_173057_80a7e2.jpg",
+      "item_id": 39
+    },
+    {
+      "id": 90,
+      "path": "20260426_173057_9de0be.jpg",
+      "item_id": 39
+    },
+    {
+      "id": 91,
+      "path": "20260426_173057_a4b0c0.jpg",
+      "item_id": 39
+    },
+    {
+      "id": 92,
+      "path": "20260426_173636_faf3a2.jpg",
+      "item_id": 40
+    },
+    {
+      "id": 93,
+      "path": "20260426_173636_641c20.jpg",
+      "item_id": 40
+    },
+    {
+      "id": 94,
+      "path": "20260426_173912_93a5bf.jpg",
+      "item_id": 41
+    },
+    {
+      "id": 95,
+      "path": "20260426_174117_c7366b.jpg",
+      "item_id": 42
+    },
+    {
+      "id": 96,
+      "path": "20260426_174117_bf3391.jpg",
+      "item_id": 42
+    },
+    {
+      "id": 97,
+      "path": "20260426_174241_324528.jpg",
+      "item_id": 43
+    },
+    {
+      "id": 98,
+      "path": "20260426_174241_672721.jpg",
+      "item_id": 43
+    },
+    {
+      "id": 99,
+      "path": "20260426_174652_75e2da.jpg",
+      "item_id": 44
+    },
+    {
+      "id": 100,
+      "path": "20260426_174652_47310b.jpg",
+      "item_id": 44
+    },
+    {
+      "id": 101,
+      "path": "20260426_175350_dda9fd.jpg",
+      "item_id": 45
+    },
+    {
+      "id": 102,
+      "path": "20260426_175350_a79d4b.jpg",
+      "item_id": 45
+    },
+    {
+      "id": 103,
+      "path": "20260426_175350_e2018a.jpg",
+      "item_id": 45
+    },
+    {
+      "id": 104,
+      "path": "20260426_175350_6ee4a0.jpg",
+      "item_id": 45
+    },
+    {
+      "id": 105,
+      "path": "20260426_175528_887170.jpg",
+      "item_id": 46
+    },
+    {
+      "id": 106,
+      "path": "20260426_175528_e62f13.jpg",
+      "item_id": 46
+    },
+    {
+      "id": 107,
+      "path": "20260426_185200_3d8b3e.jpg",
+      "item_id": 47
+    },
+    {
+      "id": 108,
+      "path": "20260426_185618_a149db.jpg",
+      "item_id": 48
+    },
+    {
+      "id": 109,
+      "path": "20260426_185618_a0f673.jpg",
+      "item_id": 48
+    },
+    {
+      "id": 110,
+      "path": "20260426_185726_c6ea48.jpg",
+      "item_id": 49
+    },
+    {
+      "id": 111,
+      "path": "20260426_185726_95980b.jpg",
+      "item_id": 49
+    },
+    {
+      "id": 112,
+      "path": "20260426_190133_f5eced.jpg",
+      "item_id": 50
+    },
+    {
+      "id": 113,
+      "path": "20260426_190133_139388.jpg",
+      "item_id": 50
+    },
+    {
+      "id": 114,
+      "path": "20260426_190133_d689c0.jpg",
+      "item_id": 50
+    },
+    {
+      "id": 115,
+      "path": "20260426_191740_fa2ed7.jpg",
+      "item_id": 51
+    },
+    {
+      "id": 116,
+      "path": "20260426_191821_614217.jpg",
+      "item_id": 52
+    },
+    {
+      "id": 117,
+      "path": "20260426_191850_02d89a.jpg",
+      "item_id": 53
+    },
+    {
+      "id": 118,
+      "path": "20260426_191850_6bb860.jpg",
+      "item_id": 53
+    },
+    {
+      "id": 119,
+      "path": "20260426_191939_898632.jpg",
+      "item_id": 54
+    },
+    {
+      "id": 120,
+      "path": "20260426_191939_711f90.jpg",
+      "item_id": 54
+    },
+    {
+      "id": 121,
+      "path": "20260426_192303_3f598c.jpg",
+      "item_id": 55
+    },
+    {
+      "id": 122,
+      "path": "20260426_192442_a6f5a6.jpg",
+      "item_id": 56
+    },
+    {
+      "id": 123,
+      "path": "20260426_193456_3b8fe9.jpg",
+      "item_id": 57
+    },
+    {
+      "id": 124,
+      "path": "20260426_194158_2ce9b9.jpg",
+      "item_id": 58
+    },
+    {
+      "id": 125,
+      "path": "20260426_194350_b2e958.jpg",
+      "item_id": 59
+    },
+    {
+      "id": 126,
+      "path": "20260426_194350_9f35da.jpg",
+      "item_id": 59
+    },
+    {
+      "id": 127,
+      "path": "20260510_120515_aebe97.jpg",
+      "item_id": 60
+    },
+    {
+      "id": 128,
+      "path": "20260510_120515_d8e930.jpg",
+      "item_id": 60
+    }
+  ],
+  "sqlite_sequence": [
+    {
+      "name": "items",
+      "seq": 60
+    },
+    {
+      "name": "pictures",
+      "seq": 128
+    }
+  ]
+}
